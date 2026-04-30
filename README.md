@@ -32,13 +32,13 @@ This project delivers a cohesive login, sign-up, and password recovery experienc
 
 ## Project Structure
 ```
-ASSIGNEMENT2/
+ASSIGNEMENT2/               # Original folder name retained from submission
 ├── AndroidManifest.xml
 ├── java/                    # Activity classes
 ├── xml/                     # Layout XML files
 ├── Resources/               # Drawables, icons, and background XMLs
 ├── apk/                     # Debug APK for quick preview
-└── SCREENSHORTWITHXM.pdf    # Original screenshot document
+└── SCREENSHORTWITHXM.pdf    # Original screenshot document name retained
 screenshots/                 # Extracted PNG screenshots (used in README)
 ```
 
