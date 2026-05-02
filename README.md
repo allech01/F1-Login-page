@@ -5,7 +5,7 @@ A polished, multi-screen authentication UI inspired by Formula 1 branding, built
 ## Overview
 This project delivers a cohesive login, sign-up, and password recovery experience with consistent styling, custom assets, and smooth navigation between screens. It focuses on clean UI composition, branded visuals, and intuitive user flow across the authentication journey.
 
-## STAR Summary
+## Summary
 - **Situation:** The course required a professional-quality authentication flow for a mobile application, showcasing UI/UX design and navigation skills.
 - **Task:** Design and implement four interconnected screens (welcome, login, sign-up, forgot password) using Android XML and Java.
 - **Action:** Built structured layouts, created reusable visual assets and backgrounds, wired screen navigation via intents, and added password visibility toggles for usability.
