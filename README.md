@@ -59,13 +59,7 @@ screenshots/                 # Extracted PNG screenshots (used in README)
 4. Build and run the project from Android Studio.
 
 ## Screenshots
-<details>
-<summary>View all screenshots (6)</summary>
 
-![Screenshot 04](screenshots/screenshot-04.png)
-![Screenshot 10](screenshots/screenshot-10.png)
-![Screenshot 25](screenshots/screenshot-25.png)
-![Screenshot 30](screenshots/screenshot-30.png)
 ![Screenshot 37](screenshots/screenshot-37.png)
 ![Screenshot 38](screenshots/screenshot-38.png)
 
